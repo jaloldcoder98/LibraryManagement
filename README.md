@@ -1,0 +1,3 @@
+- loyihani qanday kompilatsiya qilish va ishga tushirish haqida ma’lumot
+- loyihani qanday ishlatish qo’llanma
+- loyihada yuzaga kelishi mumkin bo’lgan xatoliklar va xatolik nimani anglatishi haqida

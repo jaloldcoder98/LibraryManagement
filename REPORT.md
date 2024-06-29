@@ -1,0 +1,2 @@
+- loyihada OOP ning qaysi tamoyillaridan qanday usulda foydalanganingiz kod misollari orqali tushintirilsin.
+- loyiha davomida siz duch kelgan qiyinchiliklar va ularga qanday yechim berganingiz haqida
